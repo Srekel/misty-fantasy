@@ -1,0 +1,11 @@
+﻿### external repos
+
+external/sokol-zig/
+
+### zig ###
+# Zig programming language
+
+zig-cache/
+build/
+build-*/
+docgen_tmp/
