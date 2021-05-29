@@ -1,6 +1,11 @@
 ﻿### external repos
 
+external/DDSLoader/
+external/cgltf/
+external/nooice/
+external/sokol-tools-bin/
 external/sokol-zig/
+external/zigimg/
 
 ### zig ###
 # Zig programming language
